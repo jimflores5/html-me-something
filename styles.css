@@ -18,6 +18,20 @@ img.center {
     margin-right: auto;
 }
 
+div {
+    text-align:center;
+    padding:40px;
+    margin:auto;
+}
+
+a.block {
+    display:block;
+    width:100px;
+    height:auto;
+    position:relative;
+    margin:auto;
+}
+
 p {
     text-align: center;
     margin-top: auto;
